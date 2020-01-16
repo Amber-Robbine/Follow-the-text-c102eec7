@@ -1,0 +1,30 @@
+.tooltip {
+	position: fixed;
+	left: 98%;
+	top: 10px;
+}
+
+.icon:hover + .tooltip-content{
+
+	opacity: 1;
+}
+
+
+.tooltip-content {
+	position: relative;
+	right: 1175px;
+	width: 1075px;
+	color: white;
+    background: black;
+    padding: 0px;
+    opacity: 0;
+}
+
+
+
+
+
+
+
+
+
